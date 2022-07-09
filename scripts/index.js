@@ -7,8 +7,8 @@ const [image2] = document.getElementsByClassName('img2');
 const dice1 = 'dice' + randomNumber1 + '.png';
 const dice2 = 'dice' + randomNumber2 + '.png';
 
-image1.src = '../images/' + dice1;
-image2.src = '../images/' + dice2;
+image1.src = './images/' + dice1;
+image2.src = './images/' + dice2;
 
 // image1.setAttribute('src', '../images/' + dice1);
 // image1.setAttribute('src', '../images/' + dice2);
