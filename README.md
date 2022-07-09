@@ -1,4 +1,4 @@
-# UDEMY-ANGELA-YU-DICE-CHALLENGE
+# UDEMY-COMPLETE-WEB-DEVELOPMENT-BOOTCAMP-ANGELA-YU-DICE-CHALLENGE
 
 Solution of Dice Challenge of [The Complete Web Development Bootcamp 2022](https://www.udemy.com/course/the-complete-web-development-bootcamp/) course on Udemy by Angela Yu.
 
